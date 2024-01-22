@@ -8,7 +8,7 @@ ConfigArgParse==1.5.3
 coreapi==2.3.3
 coreschema==0.0.4
 Deprecated==1.2.13
-Django==4.0.5
+Django==4.1.13
 django-cors-headers==3.13.0
 django-redis==5.2.0
 djangorestframework==3.13.1
